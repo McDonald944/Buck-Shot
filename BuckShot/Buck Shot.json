@@ -807,7 +807,7 @@
       "name": "Main Menu",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -1536,15 +1536,6 @@
           "actions": [
             {
               "type": {
-                "value": "PreloadMusic"
-              },
-              "parameters": [
-                "",
-                "New Main Title.mp3"
-              ]
-            },
-            {
-              "type": {
                 "value": "ModGlobalVolume"
               },
               "parameters": [
@@ -1561,7 +1552,7 @@
                 "",
                 "New Main Title.mp3",
                 "1",
-                "yes",
+                "no",
                 "GlobalVolume()",
                 ""
               ]
@@ -1584,21 +1575,11 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PushScene"
               },
               "parameters": [
                 "",
-                "\"Credits\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PauseMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
+                "\"Credits\""
               ]
             }
           ]
@@ -1619,21 +1600,11 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PushScene"
               },
               "parameters": [
                 "",
-                "\"Leaderboard\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PauseMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
+                "\"Leaderboard\""
               ]
             }
           ]
@@ -1654,34 +1625,11 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PushScene"
               },
               "parameters": [
                 "",
-                "\"Settings\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "New Main Title.mp3",
-                "1",
-                "yes",
-                "GlobalVolume()",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PauseMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
+                "\"Settings\""
               ]
             }
           ]
@@ -1791,7 +1739,7 @@
       "name": "Credits",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -2309,34 +2257,6 @@
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "New Main Title.mp3",
-                "1",
-                "yes",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
@@ -2348,11 +2268,9 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PopScene"
               },
               "parameters": [
-                "",
-                "\"Main Menu\"",
                 ""
               ]
             }
@@ -2443,7 +2361,7 @@
       "name": "Leaderboard",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -2739,34 +2657,6 @@
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "New Main Title.mp3",
-                "1",
-                "yes",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
@@ -2778,11 +2668,9 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PopScene"
               },
               "parameters": [
-                "",
-                "\"Main Menu\"",
                 ""
               ]
             }
@@ -2869,7 +2757,7 @@
       "name": "Settings",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -3472,34 +3360,6 @@
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "New Main Title.mp3",
-                "1",
-                "yes",
-                "GlobalVolume()",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
               },
               "parameters": [
@@ -3548,11 +3408,9 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
+                "value": "PopScene"
               },
               "parameters": [
-                "",
-                "\"Main Menu\"",
                 ""
               ]
             }
