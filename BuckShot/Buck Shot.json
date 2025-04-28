@@ -877,6 +877,46 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Interface Bleeps/44753b4d3c538ac8b8af26578feab2d0ad562856703bbe64f0b7fc64d8003778_Click_04.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "Select  5.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Select  5.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Select  4.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Select  4.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Select  3.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Select  3.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Select 2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Select 2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1673,6 +1713,12 @@
                 "CreditsButton",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1683,6 +1729,18 @@
               "parameters": [
                 "",
                 "\"Credits\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Select  3.mp3",
+                "",
+                "16",
+                ""
               ]
             }
           ]
@@ -1698,6 +1756,12 @@
                 "LeaderboardButton",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1708,6 +1772,18 @@
               "parameters": [
                 "",
                 "\"Leaderboard\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Select 2.mp3",
+                "",
+                "16",
+                ""
               ]
             }
           ]
@@ -1723,6 +1799,12 @@
                 "SettingsButton",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1733,6 +1815,18 @@
               "parameters": [
                 "",
                 "\"Settings\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Select  4.mp3",
+                "",
+                "16",
+                ""
               ]
             }
           ]
@@ -1748,6 +1842,12 @@
                 "QuitButton",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -1756,6 +1856,18 @@
                 "value": "Quit"
               },
               "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Select  5.mp3",
+                "",
+                "16",
                 ""
               ]
             }
