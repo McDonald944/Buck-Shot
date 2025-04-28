@@ -41,10 +41,9 @@ Buck Shot is a 2D physics-based hunting game designed for quick, replayable roun
 
 Buck Shot was lovingly crafted during the Fireside Gamejam 2025 by:
 
-* [Your Name/Role - e.g., Programming, Art]
-* [Teammate Name/Role - e.g., Sound Design, Programming]
-* [Teammate Name/Role - e.g., Game Design, Art]
-* *(Add more as needed)*
+* [McDonald944 - Programming, GDevelop Assistant, Art]
+* [acheronchen - Sound Design, Game Design]
+* [Windex - Programming, Game Design, GDevelop Lead]
 
 ---
 
