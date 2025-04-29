@@ -1729,6 +1729,7 @@
               "parameters": [
                 "",
                 "\"Credits\""
+<<<<<<< HEAD
               ]
             },
             {
@@ -1741,6 +1742,8 @@
                 "",
                 "16",
                 ""
+=======
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
               ]
             }
           ]
@@ -1772,6 +1775,7 @@
               "parameters": [
                 "",
                 "\"Leaderboard\""
+<<<<<<< HEAD
               ]
             },
             {
@@ -1784,6 +1788,8 @@
                 "",
                 "16",
                 ""
+=======
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
               ]
             }
           ]
@@ -1815,6 +1821,7 @@
               "parameters": [
                 "",
                 "\"Settings\""
+<<<<<<< HEAD
               ]
             },
             {
@@ -1827,6 +1834,8 @@
                 "",
                 "16",
                 ""
+=======
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
               ]
             }
           ]
@@ -2125,7 +2134,11 @@
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": false,
+<<<<<<< HEAD
       "title": "",
+=======
+      "title": "Credits",
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
       "v": 209,
       "uiSettings": {
         "grid": true,
@@ -2642,6 +2655,23 @@
           "conditions": [
             {
               "type": {
+<<<<<<< HEAD
+=======
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
@@ -2747,7 +2777,11 @@
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": false,
+<<<<<<< HEAD
       "title": "",
+=======
+      "title": "Leaderboard",
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
       "v": 209,
       "uiSettings": {
         "grid": true,
@@ -2759,7 +2793,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.68359375,
+        "zoomFactor": 0.7066447568907883,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3042,6 +3076,23 @@
           "conditions": [
             {
               "type": {
+<<<<<<< HEAD
+=======
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
@@ -3056,6 +3107,11 @@
                 "value": "PopScene"
               },
               "parameters": [
+<<<<<<< HEAD
+=======
+                "",
+                "",
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
                 ""
               ]
             }
@@ -3143,7 +3199,11 @@
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": false,
+<<<<<<< HEAD
       "title": "",
+=======
+      "title": "Settings",
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
       "v": 209,
       "uiSettings": {
         "grid": true,
@@ -3745,6 +3805,46 @@
           "conditions": [
             {
               "type": {
+<<<<<<< HEAD
+=======
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ExtendedVariables::ModifySceneVariable"
+              },
+              "parameters": [
+                "",
+                "PreviousSliderValue",
+                "MusicVolume",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+              },
+              "parameters": [
+                "MusicSLider",
+                "=",
+                "GlobalVolume()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
                 "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
               },
               "parameters": [
@@ -3906,6 +4006,876 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Win_32Screen",
+      "name": "Win Screen",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "Win Screen",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 0.7066447568907883,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 781,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "7534516e-9467-4607-937c-86ba89680206",
+          "width": 1036,
+          "x": -6,
+          "y": -6,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "70012ede-d2f6-4a38-bb93-67829a8627a0",
+          "width": 0,
+          "x": 0,
+          "y": -21,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "1ec23e6c-5c10-4bd1-8995-b33a3bac9071",
+          "width": 0,
+          "x": 544,
+          "y": 192,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NextButton",
+          "persistentUuid": "750382f3-9160-4e4c-acd8-0f94756b7eec",
+          "width": 0,
+          "x": 800,
+          "y": 576,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PrevButton",
+          "persistentUuid": "d1bc6649-8089-48c4-8aec-7778b3b6a103",
+          "width": 0,
+          "x": 512,
+          "y": 576,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ReturnToMenu",
+          "persistentUuid": "b0e76875-c0e4-4e46-94c8-1ea1e2b13e10",
+          "width": 320,
+          "x": 32,
+          "y": 672,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "AcceptButton",
+          "persistentUuid": "4c7ab2a6-2ecb-4c32-8032-eecc06d9ac25",
+          "width": 160,
+          "x": 672,
+          "y": 672,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 544,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite4",
+          "persistentUuid": "425aeb46-6394-47e8-bbb3-8035d1a06dcd",
+          "width": 576,
+          "x": 32,
+          "y": 96,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\main_manu.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 512,
+                            "y": 0
+                          },
+                          {
+                            "x": 512,
+                            "y": 512
+                          },
+                          {
+                            "x": 0,
+                            "y": 512
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "You-Got-em-4-28-2025.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50,
+                            "y": 49
+                          },
+                          {
+                            "x": 962,
+                            "y": 49
+                          },
+                          {
+                            "x": 962,
+                            "y": 215
+                          },
+                          {
+                            "x": 50,
+                            "y": 215
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\plaque.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 39,
+                            "y": 26
+                          },
+                          {
+                            "x": 377,
+                            "y": 26
+                          },
+                          {
+                            "x": 377,
+                            "y": 390
+                          },
+                          {
+                            "x": 39,
+                            "y": 390
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
+          "name": "ReturnToMenu",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 4,
+            "BottomPadding": 10,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Hovered.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Idle.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Return To Main Menu",
+              "font": "CaveatBrush-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 159,
+                "g": 190,
+                "r": 219
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Return To Main Menu",
+                "font": "CaveatBrush-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "219;190;159"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 7,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Pressed.png",
+              "tiled": false,
+              "topMargin": 11,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
+          "name": "NextButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 4,
+            "BottomPadding": 10,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Hovered.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Idle.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Next ->",
+              "font": "CaveatBrush-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 159,
+                "g": 190,
+                "r": 219
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Next ->",
+                "font": "CaveatBrush-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "219;190;159"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 7,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Pressed.png",
+              "tiled": false,
+              "topMargin": 11,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
+          "name": "PrevButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 4,
+            "BottomPadding": 10,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Hovered.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Idle.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "<- Prev",
+              "font": "CaveatBrush-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 159,
+                "g": 190,
+                "r": 219
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "<- Prev",
+                "font": "CaveatBrush-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "219;190;159"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 7,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Pressed.png",
+              "tiled": false,
+              "topMargin": 11,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
+          "name": "AcceptButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 4,
+            "BottomPadding": 10,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Hovered.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 11,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Idle.png",
+              "tiled": false,
+              "topMargin": 7,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Accept",
+              "font": "CaveatBrush-Regular.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 159,
+                "g": 190,
+                "r": 219
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Accept",
+                "font": "CaveatBrush-Regular.ttf",
+                "textAlignment": "center",
+                "verticalTextAlignment": "top",
+                "characterSize": 40,
+                "color": "219;190;159"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 7,
+              "height": 64,
+              "leftMargin": 7,
+              "rightMargin": 7,
+              "texture": "Medieval Button Brown_Pressed.png",
+              "tiled": false,
+              "topMargin": 11,
+              "width": 192
+            }
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "deer head plaque.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 45,
+                            "y": 15
+                          },
+                          {
+                            "x": 435,
+                            "y": 15
+                          },
+                          {
+                            "x": 435,
+                            "y": 480
+                          },
+                          {
+                            "x": 45,
+                            "y": 480
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "NewSprite2"
+          },
+          {
+            "objectName": "NewSprite3"
+          },
+          {
+            "objectName": "ReturnToMenu"
+          },
+          {
+            "objectName": "NextButton"
+          },
+          {
+            "objectName": "PrevButton"
+          },
+          {
+            "objectName": "AcceptButton"
+          },
+          {
+            "objectName": "NewSprite4"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "ReturnToMenu",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Main Menu\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+>>>>>>> af59b976616f0e767528839bae599ffa4b34c863
     }
   ],
   "externalEvents": [],
