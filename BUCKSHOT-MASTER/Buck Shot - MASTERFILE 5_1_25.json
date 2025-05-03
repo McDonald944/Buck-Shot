@@ -1057,6 +1057,51 @@
         "name": "New folder\\assets\\plaque.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "New folder/assets/CaveatBrush-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "New folder\\assets\\CaveatBrush-Regular.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/GloriaHallelujah-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "5f8b00629b1f7b8fbe4181d3c8296c76117b0d7f7ad534d45470070c10ba6e09_GloriaHallelujah-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/5f8b00629b1f7b8fbe4181d3c8296c76117b0d7f7ad534d45470070c10ba6e09_GloriaHallelujah-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/GloriaHallelujah-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\GloriaHallelujah-Regular.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "New folder/Game Play-Intro.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "New folder\\Game Play-Intro.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "New folder/Game Play.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "New folder\\Game Play.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1334,7 +1379,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Play Game",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -1357,7 +1402,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Play Game",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -1478,7 +1523,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Credits",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "5f8b00629b1f7b8fbe4181d3c8296c76117b0d7f7ad534d45470070c10ba6e09_GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -1501,7 +1546,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Credits",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "5f8b00629b1f7b8fbe4181d3c8296c76117b0d7f7ad534d45470070c10ba6e09_GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -1562,7 +1607,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Leaderboard",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -1585,7 +1630,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Leaderboard",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -1646,7 +1691,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Settings",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -1669,7 +1714,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Settings",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -1730,7 +1775,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Quit Game",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -1753,7 +1798,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Quit Game",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -2356,8 +2401,8 @@
           "layer": "",
           "name": "ReturnToMenuButton",
           "persistentUuid": "d29f7e69-b0ad-469a-a935-2802265a8889",
-          "width": 384,
-          "x": 608,
+          "width": 448,
+          "x": 544,
           "y": 672,
           "zOrder": 3,
           "numberProperties": [],
@@ -2646,7 +2691,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Return to Main Menu",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -2669,7 +2714,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Return to Main Menu",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -3327,8 +3372,8 @@
           "layer": "",
           "name": "ReturnToMainMenu",
           "persistentUuid": "dfbfaebd-01e3-406e-872a-1590d6bccb47",
-          "width": 384,
-          "x": 320,
+          "width": 448,
+          "x": 288,
           "y": 640,
           "zOrder": 3,
           "numberProperties": [],
@@ -3499,7 +3544,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Return to Main Menu",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -3522,7 +3567,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Return to Main Menu",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -3776,8 +3821,8 @@
           "layer": "",
           "name": "Return_to_Menu",
           "persistentUuid": "871cba34-fdd1-4315-b6a1-dbd02046c3a7",
-          "width": 352,
-          "x": 352,
+          "width": 480,
+          "x": 288,
           "y": 512,
           "zOrder": 5,
           "numberProperties": [],
@@ -4092,7 +4137,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Return to Main Menu",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -4115,7 +4160,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Return to Main Menu",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -4321,10 +4366,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "Text",
-          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     },
@@ -5149,6 +5190,31 @@
                 "=",
                 ".425"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "New folder\\Game Play-Intro.mp3",
+                "no",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "New folder\\Game Play.mp3",
+                "1",
+                "GlobalVolume()",
+                "GlobalVolume()",
+                ""
+              ]
             }
           ],
           "events": [
@@ -5272,6 +5338,15 @@
                 "\"Win Screen\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
             }
           ]
         },
@@ -5379,17 +5454,6 @@
                 "velocityY",
                 "=",
                 "Variable(launchSpeed) * sin(Variable(launchAngle))"
-              ]
-            },
-            {
-              "type": {
-                "value": "RotateTowardAngle"
-              },
-              "parameters": [
-                "bullet",
-                "launchAngle - 180",
-                "0",
-                ""
               ]
             }
           ]
@@ -5575,7 +5639,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7066447568907883,
+        "zoomFactor": 0.560247255676295,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5616,54 +5680,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite3",
-          "persistentUuid": "1ec23e6c-5c10-4bd1-8995-b33a3bac9071",
-          "width": 0,
-          "x": 544,
-          "y": 192,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NextButton",
-          "persistentUuid": "750382f3-9160-4e4c-acd8-0f94756b7eec",
-          "width": 0,
-          "x": 800,
-          "y": 576,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PrevButton",
-          "persistentUuid": "d1bc6649-8089-48c4-8aec-7778b3b6a103",
-          "width": 0,
-          "x": 512,
-          "y": 576,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 48,
           "height": 64,
@@ -5671,7 +5687,7 @@
           "layer": "",
           "name": "ReturnToMenu",
           "persistentUuid": "b0e76875-c0e4-4e46-94c8-1ea1e2b13e10",
-          "width": 384,
+          "width": 448,
           "x": 32,
           "y": 672,
           "zOrder": 6,
@@ -5688,7 +5704,7 @@
           "layer": "",
           "name": "AcceptButton",
           "persistentUuid": "4c7ab2a6-2ecb-4c32-8032-eecc06d9ac25",
-          "width": 160,
+          "width": 192,
           "x": 672,
           "y": 672,
           "zOrder": 7,
@@ -5700,15 +5716,32 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 544,
+          "height": 704,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "bd87cc68-9407-4905-b105-e4c3a96850a0",
+          "width": 768,
+          "x": -128,
+          "y": 128,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 416,
           "keepRatio": true,
           "layer": "",
           "name": "NewSprite4",
-          "persistentUuid": "425aeb46-6394-47e8-bbb3-8035d1a06dcd",
-          "width": 576,
-          "x": 32,
-          "y": 160,
-          "zOrder": 8,
+          "persistentUuid": "24154ccf-1908-4fc6-9721-b40b2ae28175",
+          "width": 448,
+          "x": 544,
+          "y": 224,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5937,7 +5970,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Return To Main Menu",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -5960,175 +5993,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Return To Main Menu",
-                "font": "CaveatBrush-Regular.ttf",
-                "textAlignment": "center",
-                "verticalTextAlignment": "top",
-                "characterSize": 40,
-                "color": "219;190;159"
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 7,
-              "height": 64,
-              "leftMargin": 7,
-              "rightMargin": 7,
-              "texture": "Medieval Button Brown_Pressed.png",
-              "tiled": false,
-              "topMargin": 11,
-              "width": 192
-            }
-          }
-        },
-        {
-          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
-          "name": "NextButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 10,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0.2
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 11,
-              "height": 64,
-              "leftMargin": 7,
-              "rightMargin": 7,
-              "texture": "Medieval Button Brown_Hovered.png",
-              "tiled": false,
-              "topMargin": 7,
-              "width": 192
-            },
-            "Idle": {
-              "bottomMargin": 11,
-              "height": 64,
-              "leftMargin": 7,
-              "rightMargin": 7,
-              "texture": "Medieval Button Brown_Idle.png",
-              "tiled": false,
-              "topMargin": 7,
-              "width": 192
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Next ->",
-              "font": "CaveatBrush-Regular.ttf",
-              "textAlignment": "center",
-              "characterSize": 40,
-              "color": {
-                "b": 159,
-                "g": 190,
-                "r": 219
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "Next ->",
-                "font": "CaveatBrush-Regular.ttf",
-                "textAlignment": "center",
-                "verticalTextAlignment": "top",
-                "characterSize": 40,
-                "color": "219;190;159"
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 7,
-              "height": 64,
-              "leftMargin": 7,
-              "rightMargin": 7,
-              "texture": "Medieval Button Brown_Pressed.png",
-              "tiled": false,
-              "topMargin": 11,
-              "width": 192
-            }
-          }
-        },
-        {
-          "assetStoreId": "82b8caa7b55342f43b24f169b4374e9224e1a78c05a87f8689663e7c4a6bad69",
-          "name": "PrevButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 10,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0.2
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 11,
-              "height": 64,
-              "leftMargin": 7,
-              "rightMargin": 7,
-              "texture": "Medieval Button Brown_Hovered.png",
-              "tiled": false,
-              "topMargin": 7,
-              "width": 192
-            },
-            "Idle": {
-              "bottomMargin": 11,
-              "height": 64,
-              "leftMargin": 7,
-              "rightMargin": 7,
-              "texture": "Medieval Button Brown_Idle.png",
-              "tiled": false,
-              "topMargin": 7,
-              "width": 192
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "<- Prev",
-              "font": "CaveatBrush-Regular.ttf",
-              "textAlignment": "center",
-              "characterSize": 40,
-              "color": {
-                "b": 159,
-                "g": 190,
-                "r": 219
-              },
-              "content": {
-                "bold": false,
-                "isOutlineEnabled": false,
-                "isShadowEnabled": false,
-                "italic": false,
-                "outlineColor": "255;255;255",
-                "outlineThickness": 2,
-                "shadowAngle": 90,
-                "shadowBlurRadius": 2,
-                "shadowColor": "0;0;0",
-                "shadowDistance": 4,
-                "shadowOpacity": 127,
-                "smoothed": true,
-                "underlined": false,
-                "text": "<- Prev",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -6189,7 +6054,7 @@
               "smoothed": true,
               "underlined": false,
               "string": "Accept",
-              "font": "CaveatBrush-Regular.ttf",
+              "font": "assets\\GloriaHallelujah-Regular.ttf",
               "textAlignment": "center",
               "characterSize": 40,
               "color": {
@@ -6212,7 +6077,7 @@
                 "smoothed": true,
                 "underlined": false,
                 "text": "Accept",
-                "font": "CaveatBrush-Regular.ttf",
+                "font": "assets\\GloriaHallelujah-Regular.ttf",
                 "textAlignment": "center",
                 "verticalTextAlignment": "top",
                 "characterSize": 40,
@@ -6251,7 +6116,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "deer_pixel_plaque.png",
+                      "image": "New folder\\assets\\plaque.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -6267,20 +6132,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 618,
-                            "y": 80
+                            "x": 39,
+                            "y": 26
                           },
                           {
-                            "x": 1477,
-                            "y": 80
+                            "x": 377,
+                            "y": 26
                           },
                           {
-                            "x": 1477,
-                            "y": 1606
+                            "x": 377,
+                            "y": 390
                           },
                           {
-                            "x": 618,
-                            "y": 1606
+                            "x": 39,
+                            "y": 390
                           }
                         ]
                       ]
@@ -6306,12 +6171,6 @@
           },
           {
             "objectName": "ReturnToMenu"
-          },
-          {
-            "objectName": "NextButton"
-          },
-          {
-            "objectName": "PrevButton"
           },
           {
             "objectName": "AcceptButton"
@@ -6402,74 +6261,6 @@
                 "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
               },
               "parameters": [
-                "NextButton",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Select 2.mp3",
-                "2",
-                "12",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
-              },
-              "parameters": [
-                "PrevButton",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Select 2.mp3",
-                "2",
-                "12",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsHovered"
-              },
-              "parameters": [
                 "ReturnToMenu",
                 ""
               ]
@@ -6525,74 +6316,6 @@
                 "Select 2.mp3",
                 "2",
                 "12",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-              },
-              "parameters": [
-                "NextButton",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Click1.wav",
-                "2",
-                "16",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-              },
-              "parameters": [
-                "PrevButton",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Click1.wav",
-                "2",
-                "16",
                 "1"
               ]
             }
