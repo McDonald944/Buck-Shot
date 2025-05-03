@@ -1102,6 +1102,26 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Game Play MIXED.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Game Play MIXED.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Game Play MIXED2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Game Play MIXED2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5193,25 +5213,13 @@
             },
             {
               "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "New folder\\Game Play-Intro.mp3",
-                "no",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "PlayMusicCanal"
               },
               "parameters": [
                 "",
-                "New folder\\Game Play.mp3",
+                "Game Play MIXED2.mp3",
                 "1",
-                "GlobalVolume()",
+                "no",
                 "GlobalVolume()",
                 ""
               ]
@@ -5312,6 +5320,41 @@
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MusicChannelPlayingOffset"
+              },
+              "parameters": [
+                "",
+                "1",
+                ">=",
+                "13.942"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModPlayingOffsetMusicChannel"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "0.801"
+              ]
             }
           ]
         },
