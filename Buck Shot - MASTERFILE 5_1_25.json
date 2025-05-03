@@ -92,7 +92,7 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/main_manu.png",
+        "file": "New folder/assets/main_manu.png",
         "kind": "image",
         "metadata": "",
         "name": "main_manu.png",
@@ -100,7 +100,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Medieval Button Brown_Hovered.png",
+        "file": "New folder/assets/Medieval Button Brown_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Medieval Button Brown_Hovered.png",
@@ -112,7 +112,7 @@
         }
       },
       {
-        "file": "assets/Medieval Button Brown_Idle.png",
+        "file": "New folder/assets/Medieval Button Brown_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Medieval Button Brown_Idle.png",
@@ -124,7 +124,7 @@
         }
       },
       {
-        "file": "assets/Medieval Button Brown_Pressed.png",
+        "file": "New folder/assets/Medieval Button Brown_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Medieval Button Brown_Pressed.png",
@@ -147,7 +147,7 @@
         }
       },
       {
-        "file": "assets/Buck-Shot-4-27-2025(2).png",
+        "file": "New folder/assets/Buck-Shot-4-27-2025(2).png",
         "kind": "image",
         "metadata": "",
         "name": "Buck-Shot-4-27-2025(2).png",
@@ -155,7 +155,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/main_manu2.png",
+        "file": "New folder/assets/main_manu2.png",
         "kind": "image",
         "metadata": "",
         "name": "main_manu2.png",
@@ -163,7 +163,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Settings-4-27-2025.png",
+        "file": "New folder/assets/Settings-4-27-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "Settings-4-27-2025.png",
@@ -171,7 +171,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Square Green Slider Border.png",
+        "file": "New folder/assets/Square Green Slider Border.png",
         "kind": "image",
         "metadata": "",
         "name": "Square Green Slider Border.png",
@@ -183,7 +183,7 @@
         }
       },
       {
-        "file": "assets/Square Green Slider Fill Bar.png",
+        "file": "New folder/assets/Square Green Slider Fill Bar.png",
         "kind": "image",
         "metadata": "",
         "name": "Square Green Slider Fill Bar.png",
@@ -195,7 +195,7 @@
         }
       },
       {
-        "file": "assets/Square Green Slider Thumb.png",
+        "file": "New folder/assets/Square Green Slider Thumb.png",
         "kind": "image",
         "metadata": "",
         "name": "Square Green Slider Thumb.png",
@@ -207,7 +207,7 @@
         }
       },
       {
-        "file": "assets/Music-Volume-4-27-2025.png",
+        "file": "New folder/assets/Music-Volume-4-27-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "Music-Volume-4-27-2025.png",
@@ -215,7 +215,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/main_manu3.png",
+        "file": "New folder/assets/main_manu3.png",
         "kind": "image",
         "metadata": "",
         "name": "main_manu3.png",
@@ -223,7 +223,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Leaderboard-4-27-2025.png",
+        "file": "New folder/assets/Leaderboard-4-27-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "Leaderboard-4-27-2025.png",
@@ -241,7 +241,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Credits-4-28-2025.png",
+        "file": "New folder/assets/Credits-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "Credits-4-28-2025.png",
@@ -249,7 +249,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/plaque.png",
+        "file": "New folder/deer_pixel_plaque.png",
         "kind": "image",
         "metadata": "",
         "name": "plaque.png",
@@ -257,7 +257,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Acheron-Chen-4-28-2025.png",
+        "file": "New folder/assets/Acheron-Chen-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "Acheron-Chen-4-28-2025.png",
@@ -265,7 +265,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Acheron-Chen-4-28-2025.png",
+        "file": "New folder/assets/Acheron-Chen-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Acheron-Chen-4-28-2025.png",
@@ -273,7 +273,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-144.png",
+        "file": "New folder/assets/android-icon-144.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-icon-144.png",
@@ -281,7 +281,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-192.png",
+        "file": "New folder/assets/android-icon-192.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-icon-192.png",
@@ -289,7 +289,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-36.png",
+        "file": "New folder/assets/android-icon-36.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-icon-36.png",
@@ -297,7 +297,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-48.png",
+        "file": "New folder/assets/android-icon-48.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-icon-48.png",
@@ -305,7 +305,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-72.png",
+        "file": "New folder/assets/android-icon-72.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-icon-72.png",
@@ -313,7 +313,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-96.png",
+        "file": "New folder/assets/android-icon-96.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-icon-96.png",
@@ -321,7 +321,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-windowSplashScreenAnimatedIcon.png",
+        "file": "New folder/assets/android-windowSplashScreenAnimatedIcon.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\android-windowSplashScreenAnimatedIcon.png",
@@ -329,7 +329,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/BS-4-28-2025.png",
+        "file": "New folder/assets/BS-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\BS-4-28-2025.png",
@@ -337,7 +337,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Buck-Shot-4-27-2025(2).png",
+        "file": "New folder/assets/Buck-Shot-4-27-2025(2).png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Buck-Shot-4-27-2025(2).png",
@@ -345,7 +345,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Credits-4-28-2025.png",
+        "file": "New folder/assets/Credits-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Credits-4-28-2025.png",
@@ -353,7 +353,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/desktop-icon-512.png",
+        "file": "New folder/assets/desktop-icon-512.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\desktop-icon-512.png",
@@ -361,7 +361,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-100.png",
+        "file": "New folder/assets/ios-icon-100.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-100.png",
@@ -369,7 +369,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-1024.png",
+        "file": "New folder/assets/ios-icon-1024.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-1024.png",
@@ -377,7 +377,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-114.png",
+        "file": "New folder/assets/ios-icon-114.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-114.png",
@@ -385,7 +385,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-120.png",
+        "file": "New folder/assets/ios-icon-120.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-120.png",
@@ -393,7 +393,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-144.png",
+        "file": "New folder/assets/ios-icon-144.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-144.png",
@@ -401,7 +401,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-152.png",
+        "file": "New folder/assets/ios-icon-152.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-152.png",
@@ -409,7 +409,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-167.png",
+        "file": "New folder/assets/ios-icon-167.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-167.png",
@@ -417,7 +417,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-180.png",
+        "file": "New folder/assets/ios-icon-180.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-180.png",
@@ -425,7 +425,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-20.png",
+        "file": "New folder/assets/ios-icon-20.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-20.png",
@@ -433,7 +433,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-29.png",
+        "file": "New folder/assets/ios-icon-29.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-29.png",
@@ -441,7 +441,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-40.png",
+        "file": "New folder/assets/ios-icon-40.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-40.png",
@@ -449,7 +449,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-50.png",
+        "file": "New folder/assets/ios-icon-50.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-50.png",
@@ -457,7 +457,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-57.png",
+        "file": "New folder/assets/ios-icon-57.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-57.png",
@@ -465,7 +465,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-58.png",
+        "file": "New folder/assets/ios-icon-58.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-58.png",
@@ -473,7 +473,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-60.png",
+        "file": "New folder/assets/ios-icon-60.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-60.png",
@@ -481,7 +481,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-72.png",
+        "file": "New folder/assets/ios-icon-72.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-72.png",
@@ -489,7 +489,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-76.png",
+        "file": "New folder/assets/ios-icon-76.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-76.png",
@@ -497,7 +497,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-80.png",
+        "file": "New folder/assets/ios-icon-80.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-80.png",
@@ -505,7 +505,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-87.png",
+        "file": "New folder/assets/ios-icon-87.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\ios-icon-87.png",
@@ -513,7 +513,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Leaderboard-4-27-2025.png",
+        "file": "New folder/assets/Leaderboard-4-27-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Leaderboard-4-27-2025.png",
@@ -521,7 +521,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/main_manu.png",
+        "file": "New folder/assets/main_manu.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\main_manu.png",
@@ -529,7 +529,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/main_manu2.png",
+        "file": "New folder/assets/main_manu2.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\main_manu2.png",
@@ -537,7 +537,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/main_manu3.png",
+        "file": "New folder/assets/main_manu3.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\main_manu3.png",
@@ -545,7 +545,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Music-Volume-4-27-2025.png",
+        "file": "New folder/assets/Music-Volume-4-27-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Music-Volume-4-27-2025.png",
@@ -553,7 +553,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/plaque.png",
+        "file": "New folder/deer_pixel_plaque.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\plaque.png",
@@ -561,7 +561,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Settings-4-27-2025.png",
+        "file": "New folder/assets/Settings-4-27-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Settings-4-27-2025.png",
@@ -569,7 +569,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/desktop-icon-512.png",
+        "file": "New folder/assets/desktop-icon-512.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/desktop-icon-512.png\"}",
         "name": "desktop-icon-512.png",
@@ -577,7 +577,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-192.png",
+        "file": "New folder/assets/android-icon-192.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-192.png\"}",
         "name": "android-icon-192.png",
@@ -585,7 +585,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-144.png",
+        "file": "New folder/assets/android-icon-144.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-144.png\"}",
         "name": "android-icon-144.png",
@@ -593,7 +593,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-96.png",
+        "file": "New folder/assets/android-icon-96.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-96.png\"}",
         "name": "android-icon-96.png",
@@ -601,7 +601,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-72.png",
+        "file": "New folder/assets/android-icon-72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-72.png\"}",
         "name": "android-icon-72.png",
@@ -609,7 +609,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-48.png",
+        "file": "New folder/assets/android-icon-48.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-48.png\"}",
         "name": "android-icon-48.png",
@@ -617,7 +617,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-icon-36.png",
+        "file": "New folder/assets/android-icon-36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-36.png\"}",
         "name": "android-icon-36.png",
@@ -625,7 +625,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/android-windowSplashScreenAnimatedIcon.png",
+        "file": "New folder/assets/android-windowSplashScreenAnimatedIcon.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-windowSplashScreenAnimatedIcon.png\"}",
         "name": "android-windowSplashScreenAnimatedIcon.png",
@@ -633,7 +633,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-1024.png",
+        "file": "New folder/assets/ios-icon-1024.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-1024.png\"}",
         "name": "ios-icon-1024.png",
@@ -641,7 +641,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-180.png",
+        "file": "New folder/assets/ios-icon-180.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-180.png\"}",
         "name": "ios-icon-180.png",
@@ -649,7 +649,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-167.png",
+        "file": "New folder/assets/ios-icon-167.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-167.png\"}",
         "name": "ios-icon-167.png",
@@ -657,7 +657,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-152.png",
+        "file": "New folder/assets/ios-icon-152.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-152.png\"}",
         "name": "ios-icon-152.png",
@@ -665,7 +665,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-144.png",
+        "file": "New folder/assets/ios-icon-144.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-144.png\"}",
         "name": "ios-icon-144.png",
@@ -673,7 +673,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-120.png",
+        "file": "New folder/assets/ios-icon-120.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-120.png\"}",
         "name": "ios-icon-120.png",
@@ -681,7 +681,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-114.png",
+        "file": "New folder/assets/ios-icon-114.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-114.png\"}",
         "name": "ios-icon-114.png",
@@ -689,7 +689,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-100.png",
+        "file": "New folder/assets/ios-icon-100.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-100.png\"}",
         "name": "ios-icon-100.png",
@@ -697,7 +697,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-87.png",
+        "file": "New folder/assets/ios-icon-87.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-87.png\"}",
         "name": "ios-icon-87.png",
@@ -705,7 +705,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-80.png",
+        "file": "New folder/assets/ios-icon-80.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-80.png\"}",
         "name": "ios-icon-80.png",
@@ -713,7 +713,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-76.png",
+        "file": "New folder/assets/ios-icon-76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-76.png\"}",
         "name": "ios-icon-76.png",
@@ -721,7 +721,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-72.png",
+        "file": "New folder/assets/ios-icon-72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-72.png\"}",
         "name": "ios-icon-72.png",
@@ -729,7 +729,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-60.png",
+        "file": "New folder/assets/ios-icon-60.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-60.png\"}",
         "name": "ios-icon-60.png",
@@ -737,7 +737,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-58.png",
+        "file": "New folder/assets/ios-icon-58.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-58.png\"}",
         "name": "ios-icon-58.png",
@@ -745,7 +745,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-57.png",
+        "file": "New folder/assets/ios-icon-57.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-57.png\"}",
         "name": "ios-icon-57.png",
@@ -753,7 +753,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-50.png",
+        "file": "New folder/assets/ios-icon-50.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-50.png\"}",
         "name": "ios-icon-50.png",
@@ -761,7 +761,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-40.png",
+        "file": "New folder/assets/ios-icon-40.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-40.png\"}",
         "name": "ios-icon-40.png",
@@ -769,7 +769,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-29.png",
+        "file": "New folder/assets/ios-icon-29.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-29.png\"}",
         "name": "ios-icon-29.png",
@@ -777,7 +777,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/ios-icon-20.png",
+        "file": "New folder/assets/ios-icon-20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-20.png\"}",
         "name": "ios-icon-20.png",
@@ -795,16 +795,6 @@
         "userAdded": false
       },
       {
-        "file": "New Main Title-0012.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "E:\\Game Jam\\New Main Title-001.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "New Main Title-002.mp3",
         "kind": "audio",
         "metadata": "",
@@ -815,7 +805,7 @@
         "userAdded": false
       },
       {
-        "file": "New Main Title (5min).mp3",
+        "file": "New folder/New Main Title (5min).mp3",
         "kind": "audio",
         "metadata": "",
         "name": "New Main Title (5min).mp3",
@@ -825,7 +815,7 @@
         "userAdded": false
       },
       {
-        "file": "Click1.wav",
+        "file": "New folder/Click1.wav",
         "kind": "audio",
         "metadata": "",
         "name": "Click1.wav",
@@ -835,7 +825,7 @@
         "userAdded": false
       },
       {
-        "file": "Click 3.wav",
+        "file": "New folder/Click 3.wav",
         "kind": "audio",
         "metadata": "",
         "name": "Click 3.wav",
@@ -845,7 +835,7 @@
         "userAdded": false
       },
       {
-        "file": "Click 2.wav",
+        "file": "New folder/Click 2.wav",
         "kind": "audio",
         "metadata": "",
         "name": "Click 2.wav",
@@ -855,7 +845,7 @@
         "userAdded": false
       },
       {
-        "file": "Click 4.wav",
+        "file": "New folder/Click 4.wav",
         "kind": "audio",
         "metadata": "",
         "name": "Click 4.wav",
@@ -865,21 +855,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Click_04.aac",
-        "kind": "audio",
-        "metadata": "",
-        "name": "44753b4d3c538ac8b8af26578feab2d0ad562856703bbe64f0b7fc64d8003778_Click_04.aac",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Interface Bleeps/44753b4d3c538ac8b8af26578feab2d0ad562856703bbe64f0b7fc64d8003778_Click_04.aac",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "Select  5.mp3",
+        "file": "New folder/Select  5.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Select  5.mp3",
@@ -889,7 +865,7 @@
         "userAdded": false
       },
       {
-        "file": "Select  4.mp3",
+        "file": "New folder/Select  4.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Select  4.mp3",
@@ -899,7 +875,7 @@
         "userAdded": false
       },
       {
-        "file": "Select  3.mp3",
+        "file": "New folder/Select  3.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Select  3.mp3",
@@ -909,7 +885,7 @@
         "userAdded": false
       },
       {
-        "file": "Select 2.mp3",
+        "file": "New folder/Select 2.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Select 2.mp3",
@@ -919,7 +895,7 @@
         "userAdded": false
       },
       {
-        "file": "Select 1.mp3",
+        "file": "New folder/Select 1.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Select 1.mp3",
@@ -929,7 +905,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Justin-Vaughn-4-28-2025.png",
+        "file": "New folder/assets/Justin-Vaughn-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Justin-Vaughn-4-28-2025.png",
@@ -937,7 +913,7 @@
         "userAdded": false
       },
       {
-        "file": "John-M-II-4-28-2025 (1).png",
+        "file": "New folder/John-M-II-4-28-2025 (1).png",
         "kind": "image",
         "metadata": "",
         "name": "John-M-II-4-28-2025 (1).png",
@@ -945,7 +921,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/tilemap_packed6.png",
+        "file": "New folder/assets/tilemap_packed6.png",
         "kind": "image",
         "metadata": "",
         "name": "tilemap_packed6.png",
@@ -957,7 +933,7 @@
         }
       },
       {
-        "file": "skywithclouds.jpg",
+        "file": "New folder/skywithclouds.jpg",
         "kind": "image",
         "metadata": "",
         "name": "skywithclouds.jpg",
@@ -965,7 +941,7 @@
         "userAdded": false
       },
       {
-        "file": "tree_background.jpg",
+        "file": "New folder/tree_background.jpg",
         "kind": "image",
         "metadata": "",
         "name": "tree_background.jpg",
@@ -973,7 +949,7 @@
         "userAdded": false
       },
       {
-        "file": "deer_01.png",
+        "file": "New folder/deer_01.png",
         "kind": "image",
         "metadata": "",
         "name": "deer_01.png",
@@ -981,7 +957,7 @@
         "userAdded": false
       },
       {
-        "file": "Adobe Express - file.png",
+        "file": "New folder/Adobe Express - file.png",
         "kind": "image",
         "metadata": "",
         "name": "Adobe Express - file.png",
@@ -989,7 +965,7 @@
         "userAdded": false
       },
       {
-        "file": "deer_pixel_plaque.png",
+        "file": "New folder/deer_pixel_plaque.png",
         "kind": "image",
         "metadata": "",
         "name": "deer_pixel_plaque.png",
@@ -997,7 +973,7 @@
         "userAdded": false
       },
       {
-        "file": "You-Got-em-4-28-2025.png",
+        "file": "New folder/You-Got-em-4-28-2025.png",
         "kind": "image",
         "metadata": "",
         "name": "You-Got-em-4-28-2025.png",
@@ -1005,7 +981,7 @@
         "userAdded": false
       },
       {
-        "file": "Victory.mp3",
+        "file": "New folder/Victory.mp3",
         "kind": "audio",
         "metadata": "",
         "name": "Victory.mp3",
@@ -1015,7 +991,7 @@
         "userAdded": false
       },
       {
-        "file": "deer_02.png",
+        "file": "New folder/deer_02.png",
         "kind": "image",
         "metadata": "",
         "name": "deer_02.png",
@@ -1023,7 +999,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite.png",
+        "file": "New folder/assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
@@ -1031,7 +1007,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Square White Slider Border.png",
+        "file": "New folder/assets/Square White Slider Border.png",
         "kind": "image",
         "metadata": "",
         "name": "Square White Slider Border.png",
@@ -1043,7 +1019,7 @@
         }
       },
       {
-        "file": "assets/Square White Slider Fill Bar.png",
+        "file": "New folder/assets/Square White Slider Fill Bar.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Square White Slider Fill Bar.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "Square White Slider Fill Bar.png",
@@ -1055,7 +1031,7 @@
         }
       },
       {
-        "file": "assets/Square White Slider Thumb.png",
+        "file": "New folder/assets/Square White Slider Thumb.png",
         "kind": "image",
         "metadata": "",
         "name": "Square White Slider Thumb.png",
@@ -1067,18 +1043,18 @@
         }
       },
       {
-        "file": "power-4-30-2025.png",
+        "file": "New folder/power-4-30-2025(1).png",
         "kind": "image",
         "metadata": "",
-        "name": "power-4-30-2025.png",
+        "name": "power-4-30-2025(1).png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "power-4-30-2025(1).png",
+        "file": "New folder/assets/plaque.png",
         "kind": "image",
         "metadata": "",
-        "name": "power-4-30-2025(1).png",
+        "name": "New folder\\assets\\plaque.png",
         "smoothed": false,
         "userAdded": false
       }
@@ -1118,7 +1094,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6612946752696045,
+        "zoomFactor": 0.68359375,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1154,14 +1130,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "PlayButton",
           "persistentUuid": "4f66a061-0027-4c82-869d-91b65c985dcd",
-          "width": 0,
-          "x": 416,
+          "width": 256,
+          "x": 384,
           "y": 256,
           "zOrder": 2,
           "numberProperties": [],
@@ -1187,14 +1164,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "CreditsButton",
           "persistentUuid": "d885d036-7e47-45b4-a6b3-7376a5c669dd",
-          "width": 0,
-          "x": 416,
+          "width": 256,
+          "x": 384,
           "y": 352,
           "zOrder": 4,
           "numberProperties": [],
@@ -1203,14 +1181,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "LeaderboardButton",
           "persistentUuid": "af72f3aa-f6ff-4703-9e2e-8c5e02bfd793",
-          "width": 0,
-          "x": 416,
+          "width": 256,
+          "x": 384,
           "y": 448,
           "zOrder": 5,
           "numberProperties": [],
@@ -1219,14 +1198,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "SettingsButton",
           "persistentUuid": "235ef44a-ef76-434a-8bdf-371daec83c5b",
-          "width": 0,
-          "x": 416,
+          "width": 256,
+          "x": 384,
           "y": 544,
           "zOrder": 6,
           "numberProperties": [],
@@ -1235,14 +1215,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "QuitButton",
           "persistentUuid": "c206716e-7786-4c7a-a422-51352afbc914",
-          "width": 0,
-          "x": 416,
+          "width": 256,
+          "x": 384,
           "y": 640,
           "zOrder": 7,
           "numberProperties": [],
@@ -1843,16 +1824,6 @@
             },
             {
               "type": {
-                "value": "ModGlobalVolume"
-              },
-              "parameters": [
-                "",
-                "=",
-                "MusicVolume"
-              ]
-            },
-            {
-              "type": {
                 "value": "PlayMusicCanal"
               },
               "parameters": [
@@ -2385,27 +2356,10 @@
           "layer": "",
           "name": "ReturnToMenuButton",
           "persistentUuid": "d29f7e69-b0ad-469a-a935-2802265a8889",
-          "width": 320,
-          "x": 672,
+          "width": 384,
+          "x": 608,
           "y": 672,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 480,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite3",
-          "persistentUuid": "abc03c62-a5ac-49c1-8d2d-f183db89a372",
-          "width": 512,
-          "x": 64,
-          "y": 256,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2507,6 +2461,23 @@
           "x": 192,
           "y": 608,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 480,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "533aa302-4d09-4b1e-809b-84aa2e64cea8",
+          "width": 448,
+          "x": 96,
+          "y": 256,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2716,66 +2687,6 @@
               "width": 192
             }
           }
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "plaque.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 39,
-                            "y": 26
-                          },
-                          {
-                            "x": 377,
-                            "y": 26
-                          },
-                          {
-                            "x": 377,
-                            "y": 390
-                          },
-                          {
-                            "x": 39,
-                            "y": 390
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "adaptCollisionMaskAutomatically": true,
@@ -3082,6 +2993,66 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "New folder\\assets\\plaque.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 39,
+                            "y": 26
+                          },
+                          {
+                            "x": 377,
+                            "y": 26
+                          },
+                          {
+                            "x": 377,
+                            "y": 390
+                          },
+                          {
+                            "x": 39,
+                            "y": 390
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3100,10 +3071,10 @@
             "objectName": "ReturnToMenuButton"
           },
           {
-            "objectName": "NewSprite3"
+            "objectName": "NewSprite4"
           },
           {
-            "objectName": "NewSprite4"
+            "objectName": "NewSprite3"
           },
           {
             "objectName": "AcheronChenCredits"
@@ -3356,8 +3327,8 @@
           "layer": "",
           "name": "ReturnToMainMenu",
           "persistentUuid": "dfbfaebd-01e3-406e-872a-1590d6bccb47",
-          "width": 320,
-          "x": 352,
+          "width": 384,
+          "x": 320,
           "y": 640,
           "zOrder": 3,
           "numberProperties": [],
@@ -5700,7 +5671,7 @@
           "layer": "",
           "name": "ReturnToMenu",
           "persistentUuid": "b0e76875-c0e4-4e46-94c8-1ea1e2b13e10",
-          "width": 320,
+          "width": 384,
           "x": 32,
           "y": 672,
           "zOrder": 6,
