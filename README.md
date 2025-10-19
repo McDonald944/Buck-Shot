@@ -1,7 +1,9 @@
 # Buck Shot - Fireside Gamejam 2025 Entry
 
 **Made for:** Fireside Gamejam 2025
+
 **Theme:** Hunting
+
 **Submission Date:** May 04, 2025
 
 Welcome to Buck Shot! Our entry for the Fireside Gamejam 2025, built around the theme of "Hunting". Get ready to test your aim in this simple, yet satisfying, artillery-style skill game.
@@ -26,22 +28,21 @@ Buck Shot is a 2D physics-based hunting game designed for quick, replayable roun
 * **Quick Replayability:** Designed for fast rounds, perfect for "just one more try" to beat your score.
 * **Clean Menu System:**
     * **Play Game:** Jump straight into a new hunting round.
-    * **Local Leaderboard:** Check your high scores! (**Note:** This leaderboard is strictly **LOCAL ONLY**. No online features or data storage are included.)
     * **Credits:** See the amazing team who brought this game to life during the jam!
     * **Settings:** Adjust basic settings like volume levels.
     * **Quit Game:** Exit the application.
 
 ## How to Play
 
-* **Aim:** Use the `[Specify Controls - e.g., Mouse Movement / Arrow Keys Up/Down]` to adjust the angle of your shot.
-* **Power & Fire:** Use `[Specify Controls - e.g., Hold Left Mouse Button / Hold Spacebar]` to build power, and `[Specify Controls - e.g., Release Left Mouse Button / Release Spacebar]` to fire.
+* **Aim:** Use the `ARROW KEYS LEFT/RIGHT` to adjust the angle of your shot.
+* **Power & Fire:** Use `ADJUST THE POWER SLIDER BAR ON SCREEN` to adjust power, and `PRESS THE SPACEBAR` to fire.
 * **Objective:** Hit as many deer as possible before they all escape! Aim carefully and account for the arc of your projectile.
 
 ## Credits
 
 Buck Shot was lovingly crafted during the Fireside Gamejam 2025 by:
 
-* [McDonald944 - Programming, GDevelop Assistant, Art]
+* [McDonald944 - Project Lead, Game Design, Programming, GDevelop Assistant, Art]
 * [acheronchen - Sound Design, Game Design]
 * [Windex - Programming, Game Design, GDevelop Lead]
 
