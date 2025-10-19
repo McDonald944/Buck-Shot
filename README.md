@@ -48,4 +48,6 @@ Buck Shot was lovingly crafted during the Fireside Gamejam 2025 by:
 
 ---
 
+[Try Buck Shot on itch.io](https://mcdonald944.itch.io/buck-shot)
+
 Thanks for checking out Buck Shot! We hope you have fun chasing those high scores.
